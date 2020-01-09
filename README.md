@@ -1,2 +1,2 @@
 # Git-JavaScript
-## CHang Li-Han
+## Chang Li-Han
